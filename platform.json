@@ -2,21 +2,17 @@
     "name": "lgt8f",
     "title": "Logic Green boards",
     "description": "Board Package for Logic Green",
-    "url": "https://github.com/darkautism/pio-lgt8fx",
-    "homepage": "https://github.com/darkautism/pio-lgt8fx",
+    "url": "https://github.com/openhoangnc/pio-lgt8fx",
+    "homepage": "https://github.com/openhoangnc/pio-lgt8fx",
     "license": "Apache-2.0",
     "engines": {
         "platformio": "~3.0.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/darkautism/pio-lgt8fx.git"
+        "url": "https://github.com/openhoangnc/pio-lgt8fx.git"
     },
     "version": "1.0.0",
-    "packageRepositories": [
-        "http://dl.platformio.org/packages/manifest.json",
-        "https://raw.githubusercontent.com/darkautism/pio-lgt8fx/master/manifest.json"
-    ],
     "frameworks": {
         "arduino": {
             "package": "framework-lgt8fx",
