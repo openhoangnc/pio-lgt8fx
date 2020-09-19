@@ -15,7 +15,7 @@ Logic Green is a very very very cheap MCUs.
 ```ini
 [env:LGT8F328P]
 platform = https://github.com/openhoangnc/pio-lgt8fx.git
-platform_packages = framework-lgt8fx@https://github.com/openhoangnc/pio-lgt8fx/releases/download/1.0.6/lgt8f.zip
+platform_packages = framework-lgt8fx@https://github.com/openhoangnc/pio-lgt8fx/raw/master/packages/lgt8f.zip
 board = LGT8F328P
 framework = arduino
 
