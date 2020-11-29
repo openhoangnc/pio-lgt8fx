@@ -6,13 +6,13 @@
     "homepage": "https://github.com/openhoangnc/pio-lgt8fx",
     "license": "Apache-2.0",
     "engines": {
-        "platformio": "~3.0.0"
+        "platformio": "^5"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/openhoangnc/pio-lgt8fx.git"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "frameworks": {
         "arduino": {
             "package": "framework-lgt8fx",
